@@ -2,19 +2,24 @@
 
 Allows you to create a `local copy` of the repository on your computer.
 
-1. **Navigate to the Repository**
+1. Open GitHub
 
-2. **Find the Clone URL**
+2. Open the Repository that you want to clone.
 
-3. **Open Terminal (or Command Prompt)**
+3. Copy the Repository URL
 
-4. **Clone the Repository**
+- Click the `Code` button.
+- Copy the `HTTPS` url.
+
+4. Open Bash
+
+5. Clone the Repository
 
 ```bash
 git clone [repository-url]
 ```
 
-5. **Pull the code**
+6. Pull the code
 
 ```bash
 git pull origin main
